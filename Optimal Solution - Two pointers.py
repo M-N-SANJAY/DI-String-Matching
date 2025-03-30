@@ -23,3 +23,8 @@ def diStringMatch(self, s):
             right -= 1
     ans.append(left)
     return ans
+'''
+Complexities:
+Time Complexity : O(n)  (For the Main Loop iteration of s)
+Space Complexity : O(n) (For the result array)
+'''
